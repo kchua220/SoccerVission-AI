@@ -1,4 +1,4 @@
-## AI-Powered Soccer Analytics System ⚽️ 🤖
+# SoccerVission AI
 
 In this project, I worked on building an AI-powered system to analyze football matches more effectively. The system uses YOLO, an advanced object detection model, to detect and track players, referees, and the ball in video footage. To assign players to teams, K-means clustering was applied based on t-shirt colors, allowing for the calculation of ball possession percentages. Optical flow techniques were used to track player motion while accounting for camera movement, ensuring accuracy. Additionally, perspective transformation converted pixel data into real-world distances, enabling measurements like player speed and the total distance covered during a match. This project combines AI, computer vision, and sports analytics to uncover more sophisticated performance metrics in soccer.
 
