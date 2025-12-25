@@ -9,21 +9,21 @@ AI-powered football match analysis using computer vision and machine learning fo
 -----------------------------------------------------------------------------------------------------------
 
 ## Features
-- Real-Time Object Detection: Detects players, referees, and the ball using a custom-trained YOLOv8 model.
+- Real-Time Object Detection: Detects players, referees, and the soccer ball
 - Multi-Object Tracking: Tracks entities across frames to maintain consistent player identities.
-- Team Classification via Jersey Colors: Uses K-Means clustering to assign players to teams based on shirt color.
+- Team Classification via Jersey Colors: K-Means clustering to assign players to teams based on shirt color.
 - Ball Possession Analytics: Computes team possession percentages using spatial proximity to the ball.
 - Camera Motion Compensation: Applies optical flow to account for camera movement and stabilize tracking.
 - Player Motion Analysis: Measures player displacement, speed, and movement trajectories over time.
-- Real-World Distance Estimation: Uses perspective transformation to convert pixel coordinates into real-world distances.
-- Advanced Match Metrics: Extracts performance insights such as total distance covered per player and team-level statistics.
+- Real-World Distance Estimation: Perspective transformation to convert pixel coordinates into real-world distances.
+- Advanced Match Metrics: Extracts performance insights, including total distance covered per player and team-level statistics.
   
 -----------------------------------------------------------------------------------------------------------
 
 ## Model Performance
 
 - Model: Custom-trained YOLOv8 (PyTorch)
-- Detection Accuracy: 96.2% for players, referees, and ball
+- Detection Accuracy: 96.2% for players, referees, and soccer ball
 - Team Classification Accuracy: 93.5% using K-Means clustering
 - Inference: Real-time gameplay scenarios
 
@@ -54,8 +54,8 @@ AI-powered football match analysis using computer vision and machine learning fo
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://github.com/user-attachments/assets/6d5035bb-3b85-463f-a95d-ddca23a4417a" width="25%" height="170px"/>
   <img src="https://github.com/user-attachments/assets/1ec4563b-1c26-4ba7-a6d5-d897ad86acb5" width="25%" height="170px"/>
-  <img src="https://github.com/user-attachments/assets/d42c442e-2882-45f5-a7fa-4141a4ebe200" width="23%" height="147px"/>
-  <img src="https://github.com/user-attachments/assets/e6bf8f07-4d71-43ab-ba71-75538ed95476" width="23%" height="147px"/>
+  <img src="https://github.com/user-attachments/assets/d42c442e-2882-45f5-a7fa-4141a4ebe200" width="22.5%" height="145px"/>
+  <img src="https://github.com/user-attachments/assets/e6bf8f07-4d71-43ab-ba71-75538ed95476" width="22.5%" height="145px"/>
 </div>
 
 
