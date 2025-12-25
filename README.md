@@ -15,8 +15,8 @@ AI-powered football match analysis using computer vision and machine learning fo
 - Ball Possession Analytics: Computes team possession percentages using spatial proximity to the ball.
 - Camera Motion Compensation: Applies optical flow to account for camera movement and stabilize tracking.
 - Player Motion Analysis: Measures player displacement, speed, and movement trajectories over time.
-- Real-World Distance Estimation: Perspective transformation to convert pixel coordinates into real-world distances.
-- Advanced Match Metrics: Extracts performance insights, including total distance covered per player and team-level statistics.
+- Real-World Distance: Perspective transformation to convert pixel coordinates into real-world distances.
+- Advanced Metrics: Extracts performance insights, including total distance covered per player, etc.
   
 -----------------------------------------------------------------------------------------------------------
 
@@ -54,8 +54,8 @@ AI-powered football match analysis using computer vision and machine learning fo
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://github.com/user-attachments/assets/6d5035bb-3b85-463f-a95d-ddca23a4417a" width="25%" height="170px"/>
   <img src="https://github.com/user-attachments/assets/1ec4563b-1c26-4ba7-a6d5-d897ad86acb5" width="25%" height="170px"/>
-  <img src="https://github.com/user-attachments/assets/d42c442e-2882-45f5-a7fa-4141a4ebe200" width="22.5%" height="145px"/>
-  <img src="https://github.com/user-attachments/assets/e6bf8f07-4d71-43ab-ba71-75538ed95476" width="22.5%" height="145px"/>
+  <img src="https://github.com/user-attachments/assets/d42c442e-2882-45f5-a7fa-4141a4ebe200" width="22.5%" height="142px"/>
+  <img src="https://github.com/user-attachments/assets/e6bf8f07-4d71-43ab-ba71-75538ed95476" width="22.5%" height="142px"/>
 </div>
 
 
