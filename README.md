@@ -3,8 +3,8 @@
 AI-powered football match analysis using computer vision and machine learning for deeper performance insights.
 
 ----------------------------------------------------------------------------------------------------------- 
-<img src="https://github.com/user-attachments/assets/aebb6b5f-476c-4cc2-a854-2790ce536359" width="47%" height="200px" /> 
-<img src="https://github.com/user-attachments/assets/44ad6a74-b0b3-4a7b-bb35-a4c8ec8e88b8" width="47%" height="330px" />
+<img src="https://github.com/user-attachments/assets/aebb6b5f-476c-4cc2-a854-2790ce536359" width="47%" height="210px" /> 
+<img src="https://github.com/user-attachments/assets/44ad6a74-b0b3-4a7b-bb35-a4c8ec8e88b8" width="47%" height="210px" />
 
 -----------------------------------------------------------------------------------------------------------
 
