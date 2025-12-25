@@ -4,7 +4,7 @@ AI-powered football match analysis using computer vision and machine learning fo
 
 ----------------------------------------------------------------------------------------------------------- 
 <img src="https://github.com/user-attachments/assets/aebb6b5f-476c-4cc2-a854-2790ce536359" width="47%" height="210px" /> 
-<img src="https://github.com/user-attachments/assets/44ad6a74-b0b3-4a7b-bb35-a4c8ec8e88b8" width="47%" height="210px" />
+<img src="https://github.com/user-attachments/assets/44ad6a74-b0b3-4a7b-bb35-a4c8ec8e88b8" width="47%" height="215px" />
 
 -----------------------------------------------------------------------------------------------------------
 
@@ -46,16 +46,16 @@ AI-powered football match analysis using computer vision and machine learning fo
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://github.com/user-attachments/assets/525d23d6-b918-4157-85e3-a2a1a27c7f46" width="29%" height="320px"/>
   <img src="https://github.com/user-attachments/assets/37d25e4c-a322-4000-b3d1-14338d4b82da" width="22%" height="300px"/>
-  <img src="https://github.com/user-attachments/assets/93747d0f-085b-4dd7-9eb8-1dc2c91e3857" width="22%" height="280px"/>
-  <img src="https://github.com/user-attachments/assets/3cc1c8bf-a944-4b91-be2a-421e092d3a47" width="22%" height="150px"/>
+  <img src="https://github.com/user-attachments/assets/93747d0f-085b-4dd7-9eb8-1dc2c91e3857" width="22%" height="130px"/>
+  <img src="https://github.com/user-attachments/assets/3cc1c8bf-a944-4b91-be2a-421e092d3a47" width="22%" height="130px"/>
 </div>
 
 #### Precision, Recall & Label Analysis
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://github.com/user-attachments/assets/6d5035bb-3b85-463f-a95d-ddca23a4417a" width="25%" height="170px"/>
   <img src="https://github.com/user-attachments/assets/1ec4563b-1c26-4ba7-a6d5-d897ad86acb5" width="25%" height="170px"/>
-  <img src="https://github.com/user-attachments/assets/d42c442e-2882-45f5-a7fa-4141a4ebe200" width="23%" height="170px"/>
-  <img src="https://github.com/user-attachments/assets/e6bf8f07-4d71-43ab-ba71-75538ed95476" width="23%" height="170px"/>
+  <img src="https://github.com/user-attachments/assets/d42c442e-2882-45f5-a7fa-4141a4ebe200" width="23%" height="150px"/>
+  <img src="https://github.com/user-attachments/assets/e6bf8f07-4d71-43ab-ba71-75538ed95476" width="23%" height="150px"/>
 </div>
 
 
